@@ -20,3 +20,9 @@ Number of byte  18
 Response result :  OKAY
 Real response value : Linux localhost 3.18.91+ #1 SMP PREEMPT Tue Jan 9 20:30:51 UTC 2018 x86_64
 ```
+
+More information about the `adb` protocol can be found inside Android source code:
+
+https://android.googlesource.com/platform/system/adb/+/refs/heads/master/OVERVIEW.TXT
+https://android.googlesource.com/platform/system/adb/+/refs/heads/master/SERVICES.TXT
+https://android.googlesource.com/platform/system/adb/+/refs/heads/master/SYNC.TXT
